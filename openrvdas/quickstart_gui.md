@@ -147,6 +147,8 @@ The preferred way to display live and historical OpenRVDAS data is to use the su
 tools that are installed and configured using the utils/install_influxdb.sh script, Please see the
 [Grafana/InfluxDB](grafana_displays.md) page for information on using these tools.
 
+![Grafana Dashboard Example](images/grafana_dashboard.png)
+
 ### Highcharts + native
 OpenRVDAS does still ship with its own Highcharts-based widgets for displaying live and historical data using Javascript-based web widgets. A set of sample web displays created with these widgets is available at [http://openrvdas/display](http://openrvdas/display); the
 source files for these displays are under the project's
