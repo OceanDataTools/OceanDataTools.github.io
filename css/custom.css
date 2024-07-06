@@ -12,3 +12,28 @@
 .carousel-inner .carousel-item-prev {
     display: flex;
 }
+
+.tool-col {
+  padding-bottom: 0.5rem !important;
+  padding-right: 0.25rem !important;
+  padding-left: 0.25rem !important;
+  display: flex;
+}
+
+.tool-card {
+  width: 100%;
+  // border-color: $secondary;
+  .card-header {
+    padding-left: .5rem !important;
+    padding-bottom: .25rem !important;
+    padding-top: .25rem !important;
+    // text-transform: capitalize;
+  }
+  .card-body {
+    font-size: .8rem;
+    padding: .5rem;
+    // .data-name {
+    //   text-transform: capitalize;
+    // }
+  }
+}
