@@ -14,20 +14,9 @@
 }
 
 .tool-col {
-  padding-bottom: 0.5rem !important;
-  padding-right: 0.25rem !important;
-  padding-left: 0.25rem !important;
   display: flex;
 }
 
 .tool-card {
   width: 100%;
-  .card-header {
-    padding-left: .5rem !important;
-    padding-bottom: .25rem !important;
-    padding-top: .25rem !important;
-  }
-  .card-body {
-    padding: .5rem;
-  }
 }
