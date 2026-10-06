@@ -15,3 +15,6 @@ items.forEach((el) => {
         next = next.nextElementSibling
     }
 })
+
+// Show the current year in the footer's copyright notice
+document.getElementById('copyright-year').textContent = new Date().getFullYear()
